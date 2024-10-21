@@ -1,0 +1,1 @@
+A number++ operátor csak a lokális number változót növeli, nem a pedig a külsőt
